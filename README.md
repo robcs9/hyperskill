@@ -1,2 +1,2 @@
 # hyperskill
-My JetBrains/Hyperskill projects. Great learning platform
+My JetBrains Academy/Hyperskill projects. Great learning platform!
