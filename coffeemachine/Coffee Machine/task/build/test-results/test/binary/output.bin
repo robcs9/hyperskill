@@ -1,0 +1,190 @@
+[1;31m
+Start test 1[0m
+1Write action (buy, fill, take, remaining, exit):
+> remaining
+The coffee machine has: 
+400 ml of water
+540 ml of milk
+120 g of coffee beans
+9 disposable cups
+$550 of money
+> buy
+;Choose your coffee flavor (espresso, latte or cappuccino):
+(1 - Espresso, 2 - Latte, 3 - Cappuccino
+)Type "back" to return to the main screen
+> 2
+.I have enough resources, making you a coffee!
+> buy
+;Choose your coffee flavor (espresso, latte or cappuccino):
+(1 - Espresso, 2 - Latte, 3 - Cappuccino
+)Type "back" to return to the main screen
+> 2
+Sorry, not enough water!
+> fill
+&How much water do you want to refill?
+> 1000
+%How much milk do you want to refill?
+> 0
+'How much coffee do you want to refill?
+> 0
+%How many cups do you want to refill?
+> 0
+> buy
+;Choose your coffee flavor (espresso, latte or cappuccino):
+(1 - Espresso, 2 - Latte, 3 - Cappuccino
+)Type "back" to return to the main screen
+> 2
+.I have enough resources, making you a coffee!
+> take
+$564 has been withdrew
+> remaining
+The coffee machine has: 
+700 ml of water
+390 ml of milk
+80 g of coffee beans
+7 disposable cups
+$0 of money
+> exit
+[1;31m
+Start test 2[0m
+1Write action (buy, fill, take, remaining, exit):
+> remaining
+The coffee machine has: 
+400 ml of water
+540 ml of milk
+120 g of coffee beans
+9 disposable cups
+$550 of money
+> fill
+&How much water do you want to refill?
+> 3000
+%How much milk do you want to refill?
+> 3000
+'How much coffee do you want to refill?
+> 3000
+%How many cups do you want to refill?
+> 3000
+> remaining
+The coffee machine has: 
+3400 ml of water
+3540 ml of milk
+3120 g of coffee beans
+3009 disposable cups
+$550 of money
+> exit
+[1;31m
+Start test 3[0m
+1Write action (buy, fill, take, remaining, exit):
+> remaining
+The coffee machine has: 
+400 ml of water
+540 ml of milk
+120 g of coffee beans
+9 disposable cups
+$550 of money
+> buy
+;Choose your coffee flavor (espresso, latte or cappuccino):
+(1 - Espresso, 2 - Latte, 3 - Cappuccino
+)Type "back" to return to the main screen
+> 1
+.I have enough resources, making you a coffee!
+> remaining
+The coffee machine has: 
+150 ml of water
+540 ml of milk
+104 g of coffee beans
+8 disposable cups
+$554 of money
+> exit
+[1;31m
+Start test 4[0m
+1Write action (buy, fill, take, remaining, exit):
+> remaining
+The coffee machine has: 
+400 ml of water
+540 ml of milk
+120 g of coffee beans
+9 disposable cups
+$550 of money
+> buy
+;Choose your coffee flavor (espresso, latte or cappuccino):
+(1 - Espresso, 2 - Latte, 3 - Cappuccino
+)Type "back" to return to the main screen
+> 2
+.I have enough resources, making you a coffee!
+> remaining
+The coffee machine has: 
+50 ml of water
+465 ml of milk
+100 g of coffee beans
+8 disposable cups
+$557 of money
+> exit
+[1;31m
+Start test 5[0m
+1Write action (buy, fill, take, remaining, exit):
+> remaining
+The coffee machine has: 
+400 ml of water
+540 ml of milk
+120 g of coffee beans
+9 disposable cups
+$550 of money
+> buy
+;Choose your coffee flavor (espresso, latte or cappuccino):
+(1 - Espresso, 2 - Latte, 3 - Cappuccino
+)Type "back" to return to the main screen
+> 3
+.I have enough resources, making you a coffee!
+> remaining
+The coffee machine has: 
+200 ml of water
+440 ml of milk
+108 g of coffee beans
+8 disposable cups
+$556 of money
+> exit
+[1;31m
+Start test 6[0m
+1Write action (buy, fill, take, remaining, exit):
+> remaining
+The coffee machine has: 
+400 ml of water
+540 ml of milk
+120 g of coffee beans
+9 disposable cups
+$550 of money
+> take
+$550 has been withdrew
+> remaining
+The coffee machine has: 
+400 ml of water
+540 ml of milk
+120 g of coffee beans
+9 disposable cups
+$0 of money
+> exit
+[1;31m
+Start test 7[0m
+1Write action (buy, fill, take, remaining, exit):
+> remaining
+The coffee machine has: 
+400 ml of water
+540 ml of milk
+120 g of coffee beans
+9 disposable cups
+$550 of money
+> buy
+;Choose your coffee flavor (espresso, latte or cappuccino):
+(1 - Espresso, 2 - Latte, 3 - Cappuccino
+)Type "back" to return to the main screen
+> back
+1Write action (buy, fill, take, remaining, exit):
+> remaining
+The coffee machine has: 
+400 ml of water
+540 ml of milk
+120 g of coffee beans
+9 disposable cups
+$550 of money
+> exit
